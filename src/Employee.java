@@ -8,6 +8,7 @@
 
 
 public class Employee {
+
     // Поля класса
     final private String fullName;
     final private String position;
